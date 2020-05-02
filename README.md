@@ -1,10 +1,10 @@
-# omnidesk-python
+# omni-wrap
 Omnidesk API wrapper written in python
 
 ## Usage
 
 ```python
-import omnidesk-python
+import omni-wrap
 
 omnidesk-config = {
 	'sub_domain': 'your_sub_domain',
