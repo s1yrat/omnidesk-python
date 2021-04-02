@@ -19,3 +19,8 @@ omnidesk = OmnideskAPI(**omnidesk-config)
 staff = omnidesk.send_request('get', 'staff')
 
 ```
+
+## TODO:
+
+- User-friendly methods (e. g. `omnidesk.get_staff()`).
+- Support for more endpoints.
