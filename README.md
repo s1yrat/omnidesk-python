@@ -1,5 +1,6 @@
-# omni-wrap
-Omnidesk API wrapper written in python
+# py-omni-wrap
+
+Omnidesk API wrapper written in Python.
 
 ## Usage
 
